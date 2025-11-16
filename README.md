@@ -6,8 +6,8 @@ Designed to simplify study material sharing using clean architecture, JWT auth, 
 ---
 
 ## 🚀 Live Demo
-**Frontend:** https://notes-sharing-platform-project.vercel.app  
-**Backend API:** https://heartfelt-presence-production.up.railway.app  
+**Frontend:** https://notes-sharing-platform-project.vercel.app  (Deployed Url)
+**Backend API:** https://heartfelt-presence-production.up.railway.app  (This is a secured url better not to use it )
 **Database:** PostgreSQL (Railway)
 
 ---
