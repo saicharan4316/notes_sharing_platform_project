@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: import.meta.env.VITE_API_URL_3000 || "http://localhost:3000",
+  baseURL: import.meta.env.VITE_API_URL_3000 || "https://heartfelt-presence-production.up.railway.app",
   withCredentials: false,
   timeout: 20000,
 });
