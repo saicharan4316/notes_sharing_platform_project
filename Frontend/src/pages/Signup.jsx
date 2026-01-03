@@ -7,7 +7,6 @@ export default function Signup() {
   const [form, setForm] = useState({ name:"", email:"", password:"", dept_id:"" });
   const [err, setErr] = useState("");
   const navigate = useNavigate();
-
   const submit = async (e) => {
     e.preventDefault();
     setErr("");
